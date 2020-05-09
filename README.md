@@ -1,2 +1,2 @@
 # MyShop
-My Shop eComerce Training
+My Shop eComerce Training MVC
